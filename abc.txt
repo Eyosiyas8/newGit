@@ -1,26 +1,59 @@
 Executive Summary
-This proposal presents an Integrated School Management System (ISMS) for Deliverance School to improve communication, collaboration, and organization. ISMS features include student registration, information management, communication, scheduling, financial management, report cards, ID cards, and analytics. The aim is to enhance school operations and the teaching-learning experience. new
+This proposal presents an Integrated School Management System (ISMS) for Merit Academy to improve communication, collaboration, and organization. ISMS features include student registration, information management, communication, scheduling, financial management, report cards, ID cards, and analytics. The aim is to enhance school operations and the teaching-learning experience.
+
+ይህ ፕሮፖዛል የትምህርት ቤቱን ስርአት እና አደረጃጀትን ለማሻሻል የተቀናጀ የትምህርት ቤት አስተዳደር ስርዓት (ISMS) ለ ሜሪት አካዳሚ ያቀርባል። ISMSet የተማሪ ምዝገባ፣ የመረጃ አስተዳደር፣ ግንኙነት፣ መርሐግብር፣ የፋይናንስ አስተዳደር፣ የሪፖርት ካርዶች፣ የመታወቂያ ካርዶች እና ትንታኔዎች ያካትታል። አላማው የትምህርት ቤት ስራዎችን እና የመማር ማስተማር ስርአትን ማገዝ እና ማዘመን ነው።
 
 Background and Context
-ISMSet School Management System was developed a more than year ago with the intention of streamlining school operations by eliminating the need for paper-based processes and reducing errors and frustration associated with manual tasks. The system underwent various testing phases for several months before its launch eight months ago.  As a result of this process, we are currently able to serve eight schools that contain more than 13,000 students. For next year, we have reached an agreement to work with several additional schools.
+ISMSet School Management System was developed a year ago with the intention of streamlining school operations by eliminating the need for paper-based processes and reducing errors and frustration associated with manual tasks. The system underwent various testing phases for several months before its launch five months ago.  As a result of this process, we are currently able to serve seven schools that contain more than 10,000 students. For next year, we have reached an agreement to work with several additional schools.
 
 Schools face challenges due to heavy reliance on staff for paperwork and information management:
 
+የ ISMSet ትምህርት ቤት ማኔጅመንት ሲስተም ከአንድ ዓመት በፊት የተዘጋጀ ሲሆን የተነሳበትም አላማ በወረቀት ላይ የተመሰረቱ ተግባራትን በማስወገድ እና ከማኑዋል ስራዎች ጋር ተያይዘው የሚመጡ ስህተቶችን እና ድካምን በመቀነስ የትምህርት ቤት ስራዎችን ለማቀናበር በማሰብ ነው። በዚህም ሂደት ለወራት የዘለቀ የፈተና ደረጃዎችን አልፎ ከ አምስት ወራት በፊት ሙሉ በሙሉ ወደ ስራ ገብቶአል። በአሁኑ ወቅት ከሰባት ለማያንሱ በውስጣቸው ከ10000 በላይ ተማሪዎች የያዙ ትምህርት ቤቶችን በማገልገል ላይ እንገኛለን። በቀጣይ አመትም ከበርካታ ትምህርት ቤቶች ጋር ለመስራት መግባባት ላይ ደርሰናል። 
+
+የወረቀት ስራ እና የመረጃ አያያዝ ስራ በሰራተኞች ላይ ባለው ከፍተኛ ጥገኝነት ምክንያት ትምህርት ቤቶች ፈተናዎች ይገጥማቸዋል። ከነዚህም ውስጥ በዋነኝነት:
+
 Tiresome paperwork: Student registration, class scheduling, roasters, and report cards demand extensive, error-prone paperwork.
+
+አድካሚ የወረቀት ሥራ፡- የተማሪ ምዝገባ፣ የክፍል መርሐ ግብር፣ ሮስተር እና የሪፖርት ካርዶች መጠነ ሰፊና ለስህተት የተጋለጡ የወረቀት ስራዎችን ይፈልጋሉ።
+
 
 Managing and sharing student information: Teachers and administrators struggle to share student data with parents.
 
+የተማሪ መረጃን ማስተዳደር እና ማጋራት፡- አስተማሪዎች እና የአስተዳደር ሰራተኞች የተማሪ መረጃን ለወላጆች ለመጋራት ይቸገራሉ።
+
+
 Inefficient communication and collaboration: No centralized platform (means) exists for messaging and updating parents and students.
+
+ውጤታማ ያልሆነ ግንኙነት እና ትብብር፡- ለወላጆች እና ለተማሪዎች መልዕክት ለመላክ እና ለውጦችን ለማሳወቅ የሚያስችል ምንም የተማከለ መድረክ (መንገድ) የለም።
+
 
 Inconsistent scheduling and timetabling: Confusion among staff and students about schedules impacts course readiness.
 
+የማይጣጣም የጊዜ ሰሌዳ እና የጊዜ አወጣጥ፡- በሠራተኞች እና በተማሪዎች መካከል ያለ ከመርሃግብሮች ጋር የተያያዘ ግራ መጋባት የኮርሱ ዝግጁነት ላይ ተጽዕኖ ያሳድራል።
+
+
 Limited financial management: Standalone accounting systems lack integration and control over school operations.
+
+
+የተገደበ የፋይናንስ አስተዳደር፡- ገለልተኛ የሂሳብ አያያዝ ስርዓቶች በትምህርት ቤት ተግባራት ላይ የውህደት እና የቁጥጥር ጉድለት ይፈጥራሉ።
+
 
 Lack of reporting and analytics: Schools struggle to track performance and make informed decisions without proper tools.
 
+
+የሪፖርት እና ትንታኔ እጥረት፦ ትምህርት ቤቶች አፈጻጸምን ለመከታተል፣ እና አስፈላጊ መሳርያዎች ባልተሟሉበት ሁኔታ በመረጃ የተደገፉ ውሳኔዎችን ለመወሰን ይገደዳሉ። 
+
+
 Time spent on non-teaching activities
+ለማስተማር ባልሆኑ ተግባራት ላይ የሚጠፋ ጊዜ
+
 
 Data sharing and exporting difficulties
+መረጃ የማጋራት እና ወደ የመላክ ተግዳሮቶች
+
+
+
+
 
 Proposed Solution
 ISMS offers an integrated platform for school operations with modules for:
@@ -33,23 +66,19 @@ Automated roasters and report cards generation.
 Easy data export: Exports information to PDF and Excel.
 Generates ID card.
 Includes Announcements and message broadcasting.
-The system is cloud-based, accessible on any device (computer or smartphone), and features a mobile app. Security measures protect sensitive data.
+The system is cloud-based, accessible on any device (computer or smart phone), and features a mobile app. Security measures protect sensitive data.
 
-Features expected to be completed promptly:
-LMS (Learning Management System) that has modules including
-Course Management: Ability to create and manage courses with multimedia content, such as videos, documents, and quizzes.
-Assessment and Quizzes: Creation of different types of assessments (multiple-choice, essays, assignments).
-Collaboration Tools: Discussion boards, forums, and chat functionality. 
-Real-time collaboration features, such as virtual classrooms or group projects. 
-Progress Tracking and Reporting: Dashboard showing learner progress and completion rates. Generation of detailed reports for administrators, instructors, and learners. 
-Notifications and Communication: Email notifications for important events (course updates, assignment deadlines, etc.). In-platform messaging system for communication between users.
-User Analytics: Tracking of user engagement, activity, and behavior within the platform. Analytics for instructors and administrators to improve course content and delivery.
-Certification and Badges: Ability to issue certificates and badges upon course completion. Customization options for certificate templates. 
-RFID Attendance Tracking
-Payment Integration
+ISMS ለት/ቤት ስራዎች የተቀናጀ ስርአትን ከሞጁሎች ጋር ያቀርባል፡-
 
-
-
+የት/ቤት ማህበረሰብ መረጃ አስተዳደር፡- የተማሪን፣ የአስተማሪን፣ የወላጅን እና የሰራተኞች ምዝገባን እና የአካዳሚክ መዝገቦችን ያስተዳድራል። በውስጡም የወላጅ እና የተማሪ መተግበሪያ ተካተውበታል። 
+መርሐግብር እና የጊዜ አወጣጥ፡- የክፍል መርሃ ግብሮችን ያወጣል፤ ያስተዳድራል።
+የፋይናንስ አስተዳደር፡- የትምህርት ቤት ክፍያዎችን ይቆጣጠራል።
+ሪፖርት ማድረግ እና ትንታኔ፡- ሪፖርቶችን፣ ምስሎችን እና የአፈጻጸም ክትትልን ያዘጋጃል።
+አውቶማቲክ ሮስተር እና የሪፖርት ካርዶች ያዘጋጃል። 
+በቀላሉ መረጃን መላክ፡- መረጃን ወደ ፒዲኤፍ እና ኤክሴል ይቀይይራል።
+የመታወቂያ ካርድ ያዘጋጃል።
+ማስታወቂያዎች እና የመልእክት ስርጭትን ያካትታል።
+ስርዓቱ በይነመረብ ላይ የተመሰረተ ነው፣ በማንኛውም ኮምፒዩተር እንዲሁም ስማርት ቀፎ ላይ ተደራሽ ነው፣ እንዲሁም የሞባይል መተግበሪያን ያቀርባል። የደህንነት እርምጃዎች የተተገበሩበት ስርአት ነው::
 
 
 Implementation Plan and Budget
@@ -58,17 +87,20 @@ Phases:
 Detailed system discussion (1 day)
 System deployment and training (1 day)
 Free follow up and support (3 months)
-Schools get a free trial with continuous support. Early adopters enjoy free access for 3 months, for services including implementation services, training, and support.
+Schools get a free trial with continuous support. Early adopters enjoy free access until August 31, 2023, including implementation services, training, and support.
 
-Price Range
-The pricing will be subscription based and calculated by the number of students.
-Below 200 students - 40 birr per student per year
-200 - 500 students - 40 - 35 birr per student per year
-501 - 1250 - 35 -30 birr per student per year
-1251 - 2500 - 30 - 25 birr per student per year
-Above 2500 - 20 birr per student per year
+ደረጃዎች፡-
+ስለ ትምህርት ስርአቱ ዝርዝር ውይይት (1 ቀን)
+የሲስተም ዝርጋታ እና ስልጠና (1 ቀን)
+ነጻ ክትትል እና ድጋፍ (3 ወራት)
+ትምህርት ቤቶች ነፃ የሙከራ ጊዜ እና ተከታታይነት ያለው ድጋፍ ያገኛሉ። ቀድመው መጠቀም የጀመሩ ውስን ትምህርት ቤቶች እስከ  ነሃሴ 30 ቀን 2015 ዓ/ም ድረስ የአገልግሎቶችን፣ ስልጠናዎችን እና ድጋፍን ጨምሮ በነፃ ማግኘት ይችላሉ።
+
+
+
+
 
 Conclusion
 
-ISMS streamlines school operations with comprehensive modules for various tasks. Implementation is carried out in phases, and early adopters receive the system for free for the first 3 months. The project aims to enhance school efficiency and improve the learning experience for students.
-github
+ISMS streamlines school operations with comprehensive modules for various tasks. Implementation is carried out in phases, and early adopters receive the system for free until August 31, 2023. The project aims to enhance school efficiency and improve the learning experience for students.
+
+ISMS የትምህርት ቤት ስራዎችን በተለያዩ ሞጁሎች ያመቻቻል። ትግበራው በየደረጃውው የሚከናወን ሲሆን ቀድመው መጠቀም የጀመሩ ሲስተሙን እስከ ነሃሴ 30 ቀን 2015 ዓ/ም ድረስ በነፃ ማግኘት ይችላሉ። ፕሮጀክቱ የት/ቤቶችን የአሰራር ቅልጥፍና ለማሳደግ እና የተማሪዎችን የመማር ልምድ ለማሻሻል ያለመ ነው።
