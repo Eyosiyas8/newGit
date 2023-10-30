@@ -1,1 +1,74 @@
+Executive Summary
+This proposal presents an Integrated School Management System (ISMS) for Deliverance School to improve communication, collaboration, and organization. ISMS features include student registration, information management, communication, scheduling, financial management, report cards, ID cards, and analytics. The aim is to enhance school operations and the teaching-learning experience. new
+
+Background and Context
+ISMSet School Management System was developed a more than year ago with the intention of streamlining school operations by eliminating the need for paper-based processes and reducing errors and frustration associated with manual tasks. The system underwent various testing phases for several months before its launch eight months ago.  As a result of this process, we are currently able to serve eight schools that contain more than 13,000 students. For next year, we have reached an agreement to work with several additional schools.
+
+Schools face challenges due to heavy reliance on staff for paperwork and information management:
+
+Tiresome paperwork: Student registration, class scheduling, roasters, and report cards demand extensive, error-prone paperwork.
+
+Managing and sharing student information: Teachers and administrators struggle to share student data with parents.
+
+Inefficient communication and collaboration: No centralized platform (means) exists for messaging and updating parents and students.
+
+Inconsistent scheduling and timetabling: Confusion among staff and students about schedules impacts course readiness.
+
+Limited financial management: Standalone accounting systems lack integration and control over school operations.
+
+Lack of reporting and analytics: Schools struggle to track performance and make informed decisions without proper tools.
+
+Time spent on non-teaching activities
+
+Data sharing and exporting difficulties
+
+Proposed Solution
+ISMS offers an integrated platform for school operations with modules for:
+
+School Community Information Management: Manages student, teacher, parent, and staff registration and academic records. Includes a parent and students portal.
+Scheduling and Timetabling: Manages class schedules.
+Financial Management: Manages school fees.
+Reporting and Analytics: Generates customizable reports, visualizations, and performance tracking.
+Automated roasters and report cards generation.
+Easy data export: Exports information to PDF and Excel.
+Generates ID card.
+Includes Announcements and message broadcasting.
+The system is cloud-based, accessible on any device (computer or smartphone), and features a mobile app. Security measures protect sensitive data.
+
+Features expected to be completed promptly:
+LMS (Learning Management System) that has modules including
+Course Management: Ability to create and manage courses with multimedia content, such as videos, documents, and quizzes.
+Assessment and Quizzes: Creation of different types of assessments (multiple-choice, essays, assignments).
+Collaboration Tools: Discussion boards, forums, and chat functionality. 
+Real-time collaboration features, such as virtual classrooms or group projects. 
+Progress Tracking and Reporting: Dashboard showing learner progress and completion rates. Generation of detailed reports for administrators, instructors, and learners. 
+Notifications and Communication: Email notifications for important events (course updates, assignment deadlines, etc.). In-platform messaging system for communication between users.
+User Analytics: Tracking of user engagement, activity, and behavior within the platform. Analytics for instructors and administrators to improve course content and delivery.
+Certification and Badges: Ability to issue certificates and badges upon course completion. Customization options for certificate templates. 
+RFID Attendance Tracking
+Payment Integration
+
+
+
+
+
+Implementation Plan and Budget
+
+Phases:
+Detailed system discussion (1 day)
+System deployment and training (1 day)
+Free follow up and support (3 months)
+Schools get a free trial with continuous support. Early adopters enjoy free access for 3 months, for services including implementation services, training, and support.
+
+Price Range
+The pricing will be subscription based and calculated by the number of students.
+Below 200 students - 40 birr per student per year
+200 - 500 students - 40 - 35 birr per student per year
+501 - 1250 - 35 -30 birr per student per year
+1251 - 2500 - 30 - 25 birr per student per year
+Above 2500 - 20 birr per student per year
+
+Conclusion
+
+ISMS streamlines school operations with comprehensive modules for various tasks. Implementation is carried out in phases, and early adopters receive the system for free for the first 3 months. The project aims to enhance school efficiency and improve the learning experience for students.
 github
